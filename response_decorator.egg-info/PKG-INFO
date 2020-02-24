@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: response-decorator
-Version: 1.0.0
+Version: 1.0.1
 Summary: Decorator to build http response for flask libray
 Home-page: https://github.com/practice-microservices-gcp/lib-response
 Author: Adrian Ferreres
