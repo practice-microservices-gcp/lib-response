@@ -11,7 +11,7 @@ def http_response(func):
 
         web_response = flask.Response(
             response.body.to_json(),
-            status=response.status
+            status=response.code
         )
 
         web_response.headers['Content-Type'] = 'application/json'

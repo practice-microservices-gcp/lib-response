@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
      name='response_decorator',  
-     version='1.0.1',
+     version='1.0.2',
      scripts=[] ,
      author="Adrian Ferreres",
      author_email="ardiadrianadri@gmail.com",
